@@ -81,7 +81,7 @@ python scraper.py
 ## 🧑‍💻 Author
 
 - **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/yadhuvarshini/)
 
 ---
 
